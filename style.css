@@ -1,0 +1,7 @@
+body {
+    background:linear-gradient(rgb(163, 233, 168),rgb(221, 252, 205),rgb(118, 202, 232),rgb(146, 240, 255)
+    ,rgb(218, 225, 126),rgb(231, 174, 234),rgb(237, 243, 154));
+}
+.card{
+    box-shadow: 8px 5px 10px rgb(64, 1, 59);
+}
